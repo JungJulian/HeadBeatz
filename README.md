@@ -1,2 +1,2 @@
-# HeadBeatz
-Fixed BeatSaberV2
+# Beatsaber-V2
+ Julian's version of V.R Beatsaber
